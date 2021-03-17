@@ -4,7 +4,8 @@ from enum import Enum, auto
 """
 Integrantes:
 
-xxxxxxxxxxxxxxxxxxxx - RA
+Julio Teruyuki Noguchi Andres - RA: 1903633
+Pedro Henrique Fernandes Nishimura - RA: 1903722
 
 
 Instruções para TODOS os exercícios/funções abaixo:
